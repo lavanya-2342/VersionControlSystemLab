@@ -1,5 +1,5 @@
 Hello this is my first modification
-Second line of the readme file sk:wq
+Second line of the readme file
 
-sk :wutyuyfrytfyfdytfdhydhxbfxbgdhghq
+
 
