@@ -1,0 +1,6 @@
+Hi mate!!!
+Welcome to learn bout Github
+This is a test line for Git conflict:main branch
+
+Hi mate learn this git!!!
+The testing line form test branch
